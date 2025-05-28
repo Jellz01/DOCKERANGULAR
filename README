@@ -10,3 +10,8 @@ Este proyecto levanta un contenedor con **Apache** para servir una aplicación *
 
 ## 🧱 Estructura recomendada
 
+
+
+montar la carpeta de angular al apache web root 
+-v "${PWD}\angular-app\angular-app\dist\angular-app\browser:/var/www/html"
+
