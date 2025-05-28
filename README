@@ -1,0 +1,12 @@
+
+# 🐳 Angular + Apache + Docker (Desarrollo)
+
+Este proyecto levanta un contenedor con **Apache** para servir una aplicación **Angular** compilada, permitiendo el desarrollo sin reconstrucción de imagen.
+
+## 🚀 Requisitos
+
+- Docker
+- Node.js y Angular CLI instalados en tu máquina host
+
+## 🧱 Estructura recomendada
+
